@@ -6,6 +6,6 @@
 
 Скопируйте и отправьте Codex:
 
-> Установи скилл `public-drive-reader` из репозитория `GeNieSedD/CPQR`, путь `skills/public-drive-reader`: https://github.com/GeNieSedD/CPQR/tree/main/skills/public-drive-reader. Используй `skill-installer`. После установки сообщи, когда скилл станет доступен. Затем по моему запросу используй его для чтения публичной папки IMAGE AI Copilot.
+> Установи скилл `public-drive-reader` из репозитория `heteraff1-tech/cpqr`, путь `skills/public-drive-reader`: https://github.com/heteraff1-tech/cpqr/tree/main/skills/public-drive-reader. Используй `skill-installer`. После установки сообщи, когда скилл станет доступен. Затем по моему запросу используй его для чтения публичной папки IMAGE AI Copilot.
 
 После установки скилл обычно становится доступен в следующем запросе. Для чтения папки у ИИ должен быть доступ к браузеру или инструменту чтения публичных веб-страниц.
